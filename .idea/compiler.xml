@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka_server" />
+        <module name="service-consumer" />
+        <module name="service-provider" />
         <module name="provider" />
         <module name="springboot-idea-cloud" />
         <module name="consumer" />
