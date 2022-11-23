@@ -10,7 +10,6 @@
         <module name="service-consumer" />
         <module name="service-provider" />
         <module name="provider" />
-        <module name="springboot-idea-cloud" />
         <module name="consumer" />
       </profile>
     </annotationProcessing>
