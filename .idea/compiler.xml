@@ -14,5 +14,9 @@
         <module name="consumer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-consumer" target="8" />
+      <module name="service-provider" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
